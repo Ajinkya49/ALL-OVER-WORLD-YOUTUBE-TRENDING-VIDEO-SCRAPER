@@ -1,4 +1,4 @@
-# Trending YouTube Video Scraper
+# ALL-OVER-WORLD-YOUTUBE-TRENDING-VIDEO-SCRAPER
 
 Originally used to build [this dataset](https://www.kaggle.com/datasnaek/youtube-new) on Kaggle, which has about 6 months worth of trending YouTube videos on it. This script will scrape the most relevant information from videos that are currently trending on YouTube in a specified set of countries. You can find example output files in the output directory.
 
@@ -28,3 +28,4 @@ The script is fairly simple to run, it takes the following optional parameters:
 * `--country_code_path` which takes a path argument that targets the text file containing the list of country codes to target. By default this is `country_codes.txt` in the current directory.
 * `--output_dir` which takes a path argument that specifies the folder to create the output CSV files for each country. By default this is `output/` in the current directory.
 
+that it then you are got to go
